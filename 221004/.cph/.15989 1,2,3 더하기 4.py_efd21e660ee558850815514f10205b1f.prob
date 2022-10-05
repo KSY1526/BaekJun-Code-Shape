@@ -1,0 +1,1 @@
+{"name":"Local: 15989 1,2,3 더하기 4","url":"f:\\깃허브 저장소\\BaekJun Code Shape\\221004\\15989 1,2,3 더하기 4.py","tests":[{"id":1664845972810,"input":"3\n4\n7\n10","output":"4\n8\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\깃허브 저장소\\BaekJun Code Shape\\221004\\15989 1,2,3 더하기 4.py","group":"local","local":true}
