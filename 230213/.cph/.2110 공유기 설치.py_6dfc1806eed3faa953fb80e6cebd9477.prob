@@ -1,0 +1,1 @@
+{"name":"Local: 2110 공유기 설치","url":"f:\\Git\\BaekJun Code Shape\\230213\\2110 공유기 설치.py","tests":[{"id":1676292741188,"input":"5 3\n1\n2\n8\n4\n9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Git\\BaekJun Code Shape\\230213\\2110 공유기 설치.py","group":"local","local":true}
